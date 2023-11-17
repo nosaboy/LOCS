@@ -1,6 +1,7 @@
 """
 We will be attempting an introductory J1 problem to show you the different STATUS your code might recieve after submitting.
 J1 problems are the easiest problems on the CCC Junior.
+"""
 
 """
 STATUS: ACCEPTED(AC)
